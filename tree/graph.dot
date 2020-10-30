@@ -1,0 +1,24 @@
+digraph graphName{
+1->null
+1->9
+9->4
+9->null
+4->2
+4->null
+2->null
+2->3
+4->null
+4->7
+7->6
+7->null
+9->null
+9->11
+11->null
+11->88
+88->34
+88->null
+34->null
+34->66
+66->null
+66->74
+}
